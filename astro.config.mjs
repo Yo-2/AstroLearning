@@ -3,6 +3,6 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://Yo-2.github.io",
+  site: "https://yo-2.github.io",
   base: "/AstroLearning",
 });
